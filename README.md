@@ -24,7 +24,7 @@ A compact RP2040-based macropad with dual rotary encoders, 1.3" OLED display, an
 | LDO | ME6211 | 3.3V 500mA |
 | ESD | USBLC6-2SC6 | USB-C protection |
 | Display | SH1106 1.3" OLED | I2C 128x64 |
-| Switches | MX-compatible | 6x |
+| Switches | MX-compatible | 16x |
 | Encoders | EC11 | 2x |
 
 ## Firmware
