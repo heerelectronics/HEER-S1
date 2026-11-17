@@ -2,6 +2,10 @@
 
 A compact RP2040-based macropad with dual rotary encoders, 1.3" OLED display, and Vial firmware. Designed and assembled by **HEER Electronics**, Rajasthan, India.
 
+<p align="center">
+  <img src="Assets/HEERS1.jpg" width="600"/>
+</p>
+
 ## Features
 
 - RP2040 microcontroller (dual-core ARM Cortex-M0+, 133 MHz)
@@ -14,6 +18,12 @@ A compact RP2040-based macropad with dual rotary encoders, 1.3" OLED display, an
 - 3.3V LDO power regulation (ME6211)
 
 ## Hardware
+**Schematic**
+https://github.com/heerelectronics/HEER-S1/blob/main/Hardware/Schematic.pdf  
+**BOM**
+https://github.com/heerelectronics/HEER-S1/blob/main/Hardware/BOM.xlsx  
+**Netlist**
+https://github.com/heerelectronics/HEER-S1/blob/main/Hardware/netlist.txt
 
 | Component | Part | Notes |
 | --- | --- | --- |
